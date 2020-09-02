@@ -88,7 +88,7 @@ TSC seats are not time-limited. The size of the TSC can not be larger than twent
 
 The TSC may add additional members to the TSC by a standard TSC motion.
 
-A TSC member may be removed from the TSC by voluntary resignation, by a standard TSC motion, or by attending less than 10 TSC meetings annually. In all cases, the TSC member will revert to Reviewer status unless they prefer Alumni status.
+A TSC member may be removed from the TSC by voluntary resignation, by a standard TSC motion, or by attending less than 8 TSC meetings annually. In all cases, the TSC member will revert to Reviewer status unless they prefer Alumni status.
 
 Changes to TSC membership should be posted in the agenda, and may be suggested as any other agenda item (see "TSC Meetings" below).
 
@@ -114,7 +114,7 @@ A Reviewer is invited to become a TSC member by existing TSC members. A nominati
 
 #### TSC Meetings
 
-The TSC meets every week via Zoom on Mondays at 12 pm PDT. The meeting is run by a designated moderator approved by the TSC. TSC members are not required to attend every single TSC Meeting, only that they attend at least 10 a year to maintain status.
+The TSC meets every week via Zoom on Mondays at 12 pm PDT. The meeting is run by a designated moderator approved by the TSC. TSC members are not required to attend every single TSC Meeting, only that they attend at least 8 a year to maintain status.
 
 Items are added to the TSC agenda which are considered contentious or
 are modifications of governance, contribution policy, TSC membership,
