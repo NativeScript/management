@@ -114,7 +114,7 @@ A Reviewer is invited to become a TSC member by existing TSC members. A nominati
 
 #### TSC Meetings
 
-The TSC meets every week via Zoom on Mondays at 12 pm PDT. The meeting is run by a designated moderator approved by the TSC. TSC members are not required to attend every single TSC Meeting, only that they attend at least 8 a year to maintain status.
+The TSC meets every month via Zoom on Thursday at 1 pm PDT. The meeting is run by a designated moderator approved by the TSC. TSC members are not required to attend every single TSC Meeting, only that they attend at least 8 a year to maintain status.
 
 Items are added to the TSC agenda which are considered contentious or
 are modifications of governance, contribution policy, TSC membership,
