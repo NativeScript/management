@@ -88,7 +88,7 @@ TSC seats are not time-limited. The size of the TSC can not be larger than twent
 
 The TSC may add additional members to the TSC by a standard TSC motion.
 
-A TSC member may be removed from the TSC by voluntary resignation, by a standard TSC motion, or by attending less than 8 TSC meetings annually. In all cases, the TSC member will revert to Reviewer status unless they prefer Alumni status.
+A TSC member may be removed from the TSC by voluntary resignation, by a standard TSC motion, or by attending less than 3 TSC meetings annually. In all cases, the TSC member will revert to Reviewer status unless they prefer Alumni status.
 
 Changes to TSC membership should be posted in the agenda, and may be suggested as any other agenda item (see "TSC Meetings" below).
 
