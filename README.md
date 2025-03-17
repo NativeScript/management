@@ -1,5 +1,3 @@
 # NativeScript Management
 
-TSC (Technical Steering Committee) details and Code of Governance will be posted here soon.
-
-This repo will also contain discussions related to feature requests and other future planning.
+TSC (Technical Steering Committee) Code of Governance can be found [here](https://github.com/NativeScript/management/blob/master/nativescript-governance.md#governance).
