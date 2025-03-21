@@ -1,6 +1,6 @@
 # Governance
 
-NativeScript is an open source project that depends on contributions from the community. Anyone may contribute to the project at any time by submitting code, [participating in discussions](https://nativescript.org/roadmap-and-releases/), making suggestions, or any other contribution they see fit. This document describes how various types of contributors work within the NativeScript project.
+NativeScript is an open source project that depends on contributions from the community. Anyone may contribute to the project at any time by submitting code, [participating in discussions](https://github.com/orgs/NativeScript/discussions), making suggestions, or any other contribution they see fit. This document describes how various types of contributors work within the NativeScript project.
 
 ## Roles and Responsibilities
 
@@ -20,7 +20,7 @@ As Contributors gain experience and familiarity with the project, their profile 
 
 ### Committers
 
-Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. Committers are given push access to the project's GitHub repos and must abide by the project's [Contribution Guidelines](https://github.com/NativeScript/NativeScript/blob/master/CONTRIBUTING.md).
+Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. Committers are given push access to the project's GitHub repos and must abide by the project's [Contribution Guidelines](https://github.com/NativeScript/NativeScript/blob/main/tools/notes/CONTRIBUTING.md).
 
 Committers:
 
