@@ -8,7 +8,7 @@ NativeScript is part of the OpenJS Foundation. The project operates transparentl
 
 NativeScript provides platform APIs directly to the JavaScript runtime (with strong types) for a rich TypeScript development experience. As an open-source framework to develop apps for iOS, visionOS, Android, macOS and other platforms combining a best of all worlds approach marrying familiar Web approaches like CSS and view templating with common platform languages (Swift, Kotlin, Objective-C, Java) it delivers a liberating toolset for developers.
 
-It combines a node based CLI as an approachable interaction point for JavaScript developers to interact with native platform development spanning Xcode and Android Studio processes.
+It combines a CLI as an approachable interaction point for JavaScript developers to interact with native platform development processes.
 
 ### 1.1: In-scope
 
@@ -28,7 +28,7 @@ This charter can only be amended with the approval of the CPC.
 
 TSC members can be either _regular_ members or _voting_ members. Regular members can attend meetings and participate in TSC discussions, but do not vote. Voting members can do everything regular members can do, and also have the ability to cast votes when consensus is not reached on an issue.
 
-TSC memberships are not time-limited. There is no maximum size of the TSC. The TSC must have at least four voting members.
+TSC memberships are not time-limited. There is no maximum size of the TSC. The TSC must have at least five voting members.
 
 The TSC may add additional voting members to the TSC through meeting consensus. The consensus requires at least five TSC members to be present to approve a new voting member.  A TSC member can be removed from the TSC by voluntary resignation or by consensus with at least five voting members to be present. A vote in a TSC meeting can be used to change a regular TSC member to a voting TSC member, or to change a voting TSC member to a regular TSC member.
 
