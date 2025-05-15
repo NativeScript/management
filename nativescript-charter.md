@@ -6,9 +6,8 @@ NativeScript is part of the OpenJS Foundation. The project operates transparentl
 
 ## Section 1. Scope
 
-NativeScript provides platform APIs directly to the JavaScript runtime (with strong types) for a rich TypeScript development experience. As an open-source framework to develop apps for iOS, visionOS, Android, macOS and other platforms combining a best of all worlds approach marrying familiar Web approaches like CSS and view templating with common platform languages (Swift, Kotlin, Objective-C, Java) it delivers a liberating toolset for developers.
-
-It combines a CLI as an approachable interaction point for JavaScript developers to interact with native platform development processes.
+NativeScript brings native platform APIs directly into the JavaScript runtime, enriched with robust TypeScript typings, ensuring a seamless and powerful development experience. As an open-source framework for building applications across iOS, visionOS, Android, macOS, and more, it uniquely blends familiar web development paradigms—such as CSS styling and template-driven views—with popular native languages including Swift, Kotlin, Objective-C, and Java. This integration offers developers unparalleled flexibility and ease.
+Its intuitive CLI further simplifies interaction with native platform development processes, making native development approachable for JavaScript developers.
 
 ### 1.1: In-scope
 
@@ -28,9 +27,9 @@ This charter can only be amended with the approval of the CPC.
 
 TSC memberships are not time-limited. There is no maximum size of the TSC.
 
-The TSC may add additional members to the TSC through meeting consensus. The consensus requires at least five TSC members to be present to approve a new voting member.  A TSC member can be removed from the TSC by voluntary resignation or by consensus with at least five members to be present.
+The TSC may add additional members to the TSC through meeting consensus. The consensus requires at least five TSC members to be present to approve a new member.  A TSC member can be removed from the TSC by voluntary resignation or by consensus with at least five members present.
 
-No more than two-thirds of the TSC members may be affiliated with the same employer. If a change in TSC membership or a change of employment by a TSC member creates a situation where more than two-thirds of the TSC membership shares an employer, then the situation must be immediately remedied by the removal of member affiliated with the over-represented employer(s).
+No more than two-thirds of the TSC members may be affiliated with the same employer. If a change in TSC membership or a change of employment by a TSC member creates a situation where more than two-thirds of the TSC membership shares an employer, then the situation must be immediately remedied by the removal of a member affiliated with the over-represented employer(s).
 
 The TSC shall meet regularly using tools that enable participation by the community (e.g. weekly on a Zoom meeting, or through any other appropriate means selected by the TSC). The meeting shall be directed by the TSC Chairperson. Responsibility for directing individual meetings may be delegated by the TSC Chairperson to any other TSC member. Minutes or an appropriate recording shall be taken and made available to the community through accessible public postings.
 
@@ -56,8 +55,7 @@ The TSC members will define NativeScript project's release vehicles.
 
 ### Section 4.1. NativeScript Project Operations
 
-The TSC members will establish and maintain a development process for NativeScript. The development
-process will establish guidelines for how the developers and community will operate. It will, for example, establish appropriate timelines for TSC review (e.g. agenda items must be published at least a certain number of hours in advance of a TSC meeting).
+The TSC members will establish and maintain a development process for NativeScript. The development process will establish guidelines for how the developers and community will operate. It will, for example, establish appropriate timelines for TSC review (e.g. agenda items must be published at least a certain number of hours in advance of a TSC meeting).
 
 Note that project operations remain subject to any relevant policy or process specified by the OpenJS Foundation board or Cross Project Council.
 
@@ -70,8 +68,8 @@ Leadership roles in NativeScript will be peer elected representatives of the com
 For election of persons (such as the Chair), a multiple-candidate method should be used, such as:
 
 - [Condorcet](http://en.wikipedia.org/wiki/Condorcet_method) or
-- [Single Transferable Vote](http://en.wikipedia.org/wiki/Single_transferable_vote)
-  
+- Single Transferable Vote
+
 Multiple-candidate methods may be reduced to simple election by plurality when there are only two candidates for one position to be filled. No election is required if there is only one candidate and no objections to the candidates election. Elections shall be done within NativeScript by the members of the TSC.
 
 NativeScript will elect from members of NativeScript:
@@ -96,7 +94,7 @@ If a proposal cannot reach consensus after a reasonable period of discussion, a 
 
 This voting process is designed to make it difficult to move a proposal forward without consensus, but prevent someone from blocking progress through objections.
 
-TSC members are all _voting_ members. 
+TSC members are all _voting_ members.
 
 ## Section 5. Changes to this Document
 
