@@ -31,11 +31,12 @@ The TSC may add additional members to the TSC through meeting consensus. The con
 
 No more than two-thirds of the TSC members may be affiliated with the same employer. If a change in TSC membership or a change of employment by a TSC member creates a situation where more than two-thirds of the TSC membership shares an employer, then the situation must be immediately remedied by the removal of a member affiliated with the over-represented employer(s).
 
-The TSC shall meet regularly using tools that enable participation by the community (e.g. weekly on a Zoom meeting, or through any other appropriate means selected by the TSC). The meeting shall be directed by the TSC Chairperson. Responsibility for directing individual meetings may be delegated by the TSC Chairperson to any other TSC member. Minutes or an appropriate recording shall be taken and made available to the community through accessible public postings.
+The TSC shall meet once a month using tools that enable participation by the community (e.g. weekly on a Zoom meeting, or through any other appropriate means selected by the TSC). The meeting shall be directed by the TSC Chairperson. Responsibility for directing individual meetings may be delegated by the TSC Chairperson to any other TSC member. Minutes or an appropriate recording shall be taken and made available to the community through accessible public postings.
 
 TSC members are expected to regularly participate in TSC meetings and issue triaging.
 
-A TSC member is automatically removed if they do not participate in at least 2 annual meetings.
+TSC membership may be reconsidered if a member misses two or more monthly meetings.
+
 
 ## Section 4. Roles & Responsibilities of the TSC
 
