@@ -19,7 +19,7 @@ Section Intentionally Left Blank
 
 ## Section 2. Relationship with OpenJS Foundation CPC.
 
-Most large, complex open source communities have both a business and a technical governance model. Technical leadership for the projects within the OpenJS Foundation is delegated to the projects through their project charters by the OpenJS Cross Project Council (CPC). In the case of NativeScript, it is delegated to the NativeScript Technical Steering Committee ("TSC"). OpenJS Foundation's business leadership is the Board of Directors (the "Board").
+Most large, complex open source communities have both a business and a technical governance model. Technical leadership for the projects within the OpenJS Foundation is delegated to the projects through their project charters by the OpenJS Cross Project Council (CPC). In the case of NativeScript, it is delegated to the NativeScript Technical Steering Committee ("TSC").
 
 This charter can only be amended with the approval of the CPC.
 
