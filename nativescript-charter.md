@@ -27,7 +27,7 @@ This charter can only be amended with the approval of the CPC.
 
 TSC memberships are not time-limited. There is no maximum size of the TSC.
 
-The TSC may add additional members to the TSC through meeting consensus. The consensus requires at least five TSC members to be present to approve a new member.  A TSC member can be removed from the TSC by voluntary resignation or by consensus with at least five members present.
+The TSC may add additional members to the TSC through meeting consensus. The consensus requires at least five TSC members to be present to approve a new member.  A TSC member can be removed from the TSC by voluntary resignation or by a standard TSC motion.
 
 No more than two-thirds of the TSC members may be affiliated with the same employer. If a change in TSC membership or a change of employment by a TSC member creates a situation where more than two-thirds of the TSC membership shares an employer, then the situation must be immediately remedied by the removal of a member affiliated with the over-represented employer(s).
 
